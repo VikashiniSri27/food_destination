@@ -1,0 +1,8 @@
+{
+  "classes": [
+    "Fresh",
+    "Slightly Spoiled",
+    "Spoiled"
+  ],
+  "img_size": 224
+}
